@@ -1,0 +1,8 @@
+output: task.0
+	g++ task.0 -0 output
+
+task.o: task.coo
+	g++ -c task.cpp
+
+clean:
+	rm *.o output 

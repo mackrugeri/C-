@@ -1,0 +1,5 @@
+lux 3
+Smapo 4
+ToothPaste 5
+facewash 6 
+Tootbrush 7
